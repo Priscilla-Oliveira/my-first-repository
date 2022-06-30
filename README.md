@@ -1,6 +1,7 @@
-#livro de receitas :coo
+# Livro de receitas :man_cook:
 
-olá! Bem-vinde ao meu livro de receitas
+Olá! Bem-vinde ao meu livro de receitas :handshake:
 
  - Strogonoff de Frango
  - Pavê
+ - Bolo de Cenoura
